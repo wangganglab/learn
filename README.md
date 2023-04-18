@@ -28,3 +28,6 @@
 * [WebRTC学习资料整理，包括博客、文章、开源项目](https://github.com/RTC-Developer/WebRTC-knowledge-base.git)
 * [字节跳动内部的 Golang 微服务 RPC 框架](https://github.com/cloudwego/kitex.git)
 * [摸鱼神器GfEasy一分钟开发完CRM系统，优秀的代码生成器](https://gitee.com/jasonlaw1015/GfEasy.git)
+* [OBS Studio](https://github.com/obsproject/obs-studio.git)
+* [apitable](https://github.com/apitable/apitable.git)
+* [Go 爬虫电影](https://github.com/hezhizheng/go-movies.git)
