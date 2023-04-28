@@ -31,3 +31,4 @@
 * [OBS Studio](https://github.com/obsproject/obs-studio.git)
 * [apitable](https://github.com/apitable/apitable.git)
 * [Go 爬虫电影](https://github.com/hezhizheng/go-movies.git)
+* [gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。](https://github.com/panjf2000/gnet.git)
