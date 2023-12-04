@@ -34,3 +34,6 @@
 * [gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。](https://github.com/panjf2000/gnet.git)
 * [网易（TTS）EmotiVoice：开源语音合成，支持2000多音色](https://github.com/netease-youdao/EmotiVoice)
 * [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+* [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+* [dify](https://github.com/langgenius/dify)
+* [SipRtcProxy](https://github.com/anyRTC-UseCase/SipRtcProxy)
