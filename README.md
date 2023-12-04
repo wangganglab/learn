@@ -33,3 +33,4 @@
 * [Go 爬虫电影](https://github.com/hezhizheng/go-movies.git)
 * [gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。](https://github.com/panjf2000/gnet.git)
 * [网易（TTS）EmotiVoice：开源语音合成，支持2000多音色](https://github.com/netease-youdao/EmotiVoice)
+* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
