@@ -37,3 +37,9 @@
 * [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 * [dify](https://github.com/langgenius/dify)
 * [SipRtcProxy](https://github.com/anyRTC-UseCase/SipRtcProxy)
+* [Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch)
+
+## 常用软件
+* [synergy](https://luoxx.top/archives/synergy-free-share)
+* [Parallels Desktop](https://luoxx.top/archives/pd-18-active)
+* [ndd](https://gitee.com/cxasm/notepad--/releases/tag/v1.20)
