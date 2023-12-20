@@ -43,3 +43,5 @@
 * [synergy](https://luoxx.top/archives/synergy-free-share)
 * [Parallels Desktop](https://luoxx.top/archives/pd-18-active)
 * [ndd](https://gitee.com/cxasm/notepad--/releases/tag/v1.20)
+* [Cloudreve](https://github.com/cloudreve/Cloudreve.git)支持多家云存储的云盘系统
+* [WindTerm](https://github.com/kingToolbox/WindTerm.git)
