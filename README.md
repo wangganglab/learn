@@ -13,10 +13,10 @@
 * [杨康笔记](https://github.com/yangkang2021/yangkang2021.github.io.git)
 * [前沿人工智能技术](https://github.com/Baiyuetribe/paper2gui.git)
 * [Go 流媒体服务器monibuca](https://github.com/langhuihui/monibuca.git)
-* [kamailio wiki](https://github.com/andygang/kamailio-wiki.git)
+* [kamailio wiki](https://github.com/kamailio/kamailio-wiki.git)
 * [鎏光云游戏引擎](https://github.com/ksyun-kenc/liuguang.git)
 * [libresbc](https://github.com/hnimminh/libresbc.git)
-* [杜金房文档](https://github.com/andygang/seven1240.github.com.git)
+* [杜金房文档](https://github.com/seven1240/seven1240.github.com)
 * [FreeSwitch文档](https://github.com/tppi/freeswitch2.git)
 * [股票](https://github.com/Rockyzsu/stock.git)
 * [操作系统的简单内核](https://github.com/Simple-XX/SimpleKernel.git)
@@ -38,6 +38,15 @@
 * [dify](https://github.com/langgenius/dify)
 * [SipRtcProxy](https://github.com/anyRTC-UseCase/SipRtcProxy)
 * [Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch)
+* [quic-go](https://github.com/quic-go/quic-go.git)
+* [gpt-3.5-turbo](https://github.com/openai/gpt-3.5-turbo)
+* [gpt-3.5-turbo-012](https://github.com/openai/gpt-3.5-turbo-012)
+* [gpt-4-turbo-preview](https://github.com/openai/gpt-4-turbo-preview)
+* [vllm](https://github.com/vllm-project/vllm.git)
+* [富途API](https://github.com/FutunnOpen/py-futu-api.git)
+* [llama2.mojo](git@github.com:wangganglab/llama2.mojo.git)
+* [Pion webrtc example](https://github.com/pion/example-webrtc-applications.git)
+
 
 ## 常用软件
 * [synergy](https://luoxx.top/archives/synergy-free-share)
