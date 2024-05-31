@@ -46,6 +46,8 @@
 * [富途API](https://github.com/FutunnOpen/py-futu-api.git)
 * [llama2.mojo](git@github.com:wangganglab/llama2.mojo.git)
 * [Pion webrtc example](https://github.com/pion/example-webrtc-applications.git)
+* [OpenAI开放解释器](https://github.com/OpenInterpreter/open-interpreter.git)
+* [Bevy 是一款用 Rust 构建的简单易用的数据驱动游戏引擎](https://github.com/bevyengine/bevy.git)
 
 
 ## 常用软件
