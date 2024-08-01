@@ -48,6 +48,11 @@
 * [Pion webrtc example](https://github.com/pion/example-webrtc-applications.git)
 * [OpenAI开放解释器](https://github.com/OpenInterpreter/open-interpreter.git)
 * [Bevy 是一款用 Rust 构建的简单易用的数据驱动游戏引擎](https://github.com/bevyengine/bevy.git)
+* [Rust 语言教程](https://github.com/sunface/rust-by-practice.git)
+* [《AI辅助软件工程》的开源电子书](https://aise.phodal.com/)
+* [腾讯TQUIC](https://github.com/tencent/tquic)
+* [ollama中文网](https://ollama.fan/)
+* [Ollama Python library](https://github.com/ollama/ollama-python)
 
 
 ## 常用软件
